@@ -16,6 +16,7 @@ A Python logging utility optimized for Korean developers with automatic Korean t
 - ⚡ **Easy Setup** - Works out of the box with sensible defaults
 - 🐍 **Pure Python** - No system dependencies required
 - 📦 **Lightweight** - Minimal dependencies (only `loguru` and `pytz`)
+- 🖱️ **IDE-Friendly** - Clickable file paths in VSCode and other modern IDEs (format: `file.py:line`)
 
 ## Installation
 
@@ -41,6 +42,8 @@ I 05-23 14:30:15 | example.py:5 - Application started
 W 05-23 14:30:15 | example.py:6 - This is a warning
 E 05-23 14:30:15 | example.py:7 - An error occurred
 ```
+
+> 💡 **Pro tip**: In VSCode and other modern IDEs, you can click on `example.py:5` to jump directly to that line in your code!
 
 ## Usage
 
