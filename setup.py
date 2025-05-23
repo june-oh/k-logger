@@ -6,14 +6,14 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="k-logger",
     version="0.1.0",
-    author="Your Name",  # 여기에 실제 이름을 넣으세요
-    author_email="your.email@example.com",  # 여기에 실제 이메일을 넣으세요
+    author="june-oh",
+    author_email="ohjs@sogang.ac.kr",
     description="Korean-friendly logging utility with abbreviated levels and Korean timezone",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/k-logger",  # 여기에 실제 GitHub URL을 넣으세요
+    url="https://github.com/june-oh/k-logger",
     project_urls={
-        "Bug Tracker": "https://github.com/yourusername/k-logger/issues",
+        "Bug Tracker": "https://github.com/june-oh/k-logger/issues",
     },
     classifiers=[
         "Development Status :: 3 - Alpha",
