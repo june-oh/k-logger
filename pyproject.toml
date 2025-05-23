@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "k-logger"
-version = "0.1.0"
+version = "1.0.0"
 description = "Korean-friendly logging utility with abbreviated levels and Korean timezone"
 readme = "README.md"
 authors = [

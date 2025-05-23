@@ -182,11 +182,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Changelog
 
-### v0.1.0 (2025-05-23)
-- Initial release
+### v1.0.0 (2025-05-23)
+- First stable release
 - Korean timezone support
 - Abbreviated log levels
 - Customizable formatting options
+- IDE-friendly clickable file paths
 
 ## Acknowledgments
 

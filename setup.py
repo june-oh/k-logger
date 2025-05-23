@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="k-logger",
-    version="0.1.0",
+    version="1.0.0",
     author="june-oh",
     author_email="ohjs@sogang.ac.kr",
     description="Korean-friendly logging utility with abbreviated levels and Korean timezone",
