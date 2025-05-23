@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="k-logger",
+    name="k-logging",
     version="1.0.0",
     author="june-oh",
     author_email="ohjs@sogang.ac.kr",

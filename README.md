@@ -21,7 +21,7 @@ A Python logging utility optimized for Korean developers with automatic Korean t
 ## Installation
 
 ```bash
-pip install k-logger
+pip install k-logging
 ```
 
 ## Quick Start

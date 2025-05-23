@@ -19,7 +19,7 @@
 ## 설치
 
 ```bash
-pip install k-logger
+pip install k-logging
 ```
 
 ## 빠른 시작
